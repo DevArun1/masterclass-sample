@@ -1,4 +1,4 @@
-# Use Node.js 16 or later
+# Use Node.js 16 or latest
 FROM node:20
 
 # Create app directory
